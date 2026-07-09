@@ -1,0 +1,6 @@
+start
+Input the total distance goal
+Input the distance already covered
+Compute: Distance Left= Distance Goal - Distance covered
+Display: Distance Left
+End
