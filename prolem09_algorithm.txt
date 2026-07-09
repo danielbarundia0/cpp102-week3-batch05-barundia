@@ -1,0 +1,5 @@
+Start
+Declare variables: point- differential
+Input the point differential value 
+Check: if point-differential > 0, display "Win" else if point_differential < 0, display "Loss" and tie if (equal 0)
+End

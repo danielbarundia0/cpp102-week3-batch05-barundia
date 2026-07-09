@@ -1,0 +1,6 @@
+start
+Input parking rate per hours
+Input number of hours parked
+Compute: Total Fee = Rate per Hour x Hours parked
+Display: Total parking fee 
+End

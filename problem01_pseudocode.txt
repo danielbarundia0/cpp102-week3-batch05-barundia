@@ -1,0 +1,6 @@
+BEGIN
+PROMT "Enter your total distance goal ( in km/m)
+READ covered__distance 
+Distance_left= goal_distance - covered distance
+Display " Distance remaining to  reach goal: Distance_left
+End

@@ -1,0 +1,8 @@
+Start
+Declare variables: price1, quantity1,price 2, quantity2, price3, quantity3, total_cost
+Input price and quantity for Snack 1 
+Input price and quantity for Snack 2
+Input price and quantity for Snack 3
+Compute: total cost = ( price 1 x quantity 1) + (price2 x quantity2) + (price3 x quantity3)
+Display total cost
+End

@@ -1,0 +1,6 @@
+start
+Input court length
+Input court width
+Compute: Perimeter = 2x (Lenght + Width)
+Display: perimeter of the court 
+End

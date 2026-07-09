@@ -1,0 +1,5 @@
+Start
+Declare variables: general_average
+Input the students general general_average
+Check if: general_average > 90, Display "Eligable for Honor Roll" Else, display " Not Eligable for honor Roll"
+End

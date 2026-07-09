@@ -1,0 +1,5 @@
+Start
+PROMPT " Enter parking rate per hour (php) 
+READmhourse_parked total_fee = rate_per_hour * hours_parked
+DISPLAY "total parking fee: PHP " total_fee
+End

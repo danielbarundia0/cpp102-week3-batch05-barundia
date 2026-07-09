@@ -1,0 +1,8 @@
+Start
+Declare variables: seatwork_score, quiz_score, exam score, final_standing
+Input seatwork score
+Input quiz score
+Input examination score
+Compute: final_standing = ( seatwork_score x 0.30) = (quiz_score x 0.30) + (exam_score x 0.40)
+Display final requirements standing 
+End

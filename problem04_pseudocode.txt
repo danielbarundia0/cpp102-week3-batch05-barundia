@@ -1,0 +1,10 @@
+Start
+PROMPT "Enter WPM result for trial 1 
+READ trial 1 
+PROMPT "Enter WPM result for Trial 2
+READ trial 2
+PROMPT "Enter WPM result for Trial 3
+READ trial 3
+TOTAL = trial 1 = trial 2+ trial 3 average_wpm = total/3
+DISPLAY "Average typing speed across 3 trials " average_wpm, "WPM"
+End

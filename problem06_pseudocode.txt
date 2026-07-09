@@ -1,0 +1,8 @@
+Start
+PROMPT "Enter fixed pay READ base_pay
+PROMPT "Enter commission rate (in %) READ COMMISIION_rate
+PROMPT "Enter total sales amount " READ total_sales
+commission_amount =total_sales * (commisiion_rate / 100)
+total_pay = base_pay + commisiion_amount
+DISPLAY "TOTAL PAY" total_pay 
+End

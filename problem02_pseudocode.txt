@@ -1,0 +1,6 @@
+Start
+PROMPT "Enter width of basketball court (in meters)
+READ court_width
+Perimeter = 2 * (court_lenght + court_width)
+Display " perimeter of the basketball court: perimeter, meters
+End

@@ -1,0 +1,7 @@
+Enter
+INPUT Snack
+INPUT price of snack 1, snack 2, snack 3
+INPUT team snack
+QUANTITY OF snack 1, snack 2, snack 3
+OUTPUT for snacks 1, snack 2, snack 3
+End

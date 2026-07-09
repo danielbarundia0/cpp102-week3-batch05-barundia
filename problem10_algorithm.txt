@@ -1,0 +1,5 @@
+Start
+Declare variables: queie_number
+Input the queie_number
+Check divisility by 2: if queie_number % 2 == 0 (remainder is 0), display "Even" else, display "Odd"
+End

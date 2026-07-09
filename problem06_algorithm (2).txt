@@ -1,0 +1,9 @@
+Start
+Declare variables: base_pay, commission_rate, total_sales, commission_amount, total_pay
+Input base pay commission_amount
+Input commission rate (in %)
+Inpput total sales amount
+Compute: commission_amount = total_sales x ( commission_rate/ 100)
+Compute: total_pay = base_rate + commission_amount
+DIsplay total
+End

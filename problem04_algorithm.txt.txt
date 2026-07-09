@@ -1,0 +1,7 @@
+start
+Input WPM for trial 1
+Input WPM for trial 2
+Input WPM for trial 3
+Compute: Average = (Trial + Trial 2 + Trial 3) / 3
+Display: Average typing speed
+End
